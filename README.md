@@ -1,21 +1,21 @@
 # DING DONG
 
-_A simple form version of 'fizz buzz' where users can enter a number and replaces
+_A simple form version of 'fizz buzz' where users can enter a number and replaces_<br/>
 _multiples of 3 with 'ding,' 5 with 'dong,' and 15 with 'ding-dong'_.<br/>
 _version: 07/12/2017_
 
 _By **Josh Hortt**_
 
 ## Goal
-_Create a web application that takes a number from a user and returns a range of numbers_
-_from 1 to the chosen number with the following exceptions:_.
-_Numbers divisible by 3 are replaced with "ding"_.
-_Numbers divisible by 5 are replaced with "dong"_.
+_Create a web application that takes a number from a user and returns a range of numbers_.<br/>
+_from 1 to the chosen number with the following exceptions_:<br/>
+_Numbers divisible by 3 are replaced with "ding"_.<br/>
+_Numbers divisible by 5 are replaced with "dong"_.<br/>
 _Numbers divisible by 15 are replaced with "ding-dong"_.
 
 ## Description
 
-_The user inputs a number, and the site produces a list of numbers from one to the user number_.
+_The user inputs a number, and the site produces a list of numbers from one to the user number_.<br/>
 _All multiples of 3 are replaced with 'ding,' multiples of 5 with 'dong,' and multiples of 15 with 'ding-dong'_.
 
 ## Specifications Outline
@@ -28,7 +28,7 @@ _All multiples of 3 are replaced with 'ding,' multiples of 5 with 'dong,' and mu
 | Numbers divisible by 15 are replaced with "ding-dong." | 15    | 1, 2, ding, 4, dong, ding, 7, 8, ding, dong, 11, ding, 13, 14, ding-dong |
 
 ## Setup/Installation Requirements
-_Contribute to **ding-dong** by cloning this repository_.
+_Contribute to **ding-dong** by cloning this repository_.<br/>
 _Run the following commands in Terminal:_
 
 1. `$ git clone` [this repository](https://github.com/joshhortt/ding-dong.git)
@@ -41,6 +41,7 @@ _**Issue Tracking**: github.com/Joshhortt/ding-dong/issues_<br/>
 _**Source**: github.com/Joshhortt/ding-dong_
 
 ## Support and contact details
+
 _If you have questions, comments, or concerns, please contact: [Jose Horta](joshhortt@yahoo.com)_.
 
 ## Technologies Used
