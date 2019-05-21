@@ -1,0 +1,58 @@
+body {
+  font-family: verdana;
+  background-color: rgb(0, 0, 0);
+  color: rgb(0, 255, 221);
+  text-align: center;
+  margin: 30px;
+
+}
+
+label {
+  padding: 30px;
+  color: rgb(255, 255, 255);
+  font-size: 1.1rem;
+}
+
+input  {
+max-width: 40%;
+margin-left: 30%;
+margin-right: 30%;
+}
+
+ul {
+  padding: 50px;
+  width: 50%;
+  list-style: none;
+}
+
+#submit:hover,#reset:hover {
+  margin-right: 0 10 0 10px;
+  padding-right: 10%;
+  padding-left: 10%;
+  color: rgb(0, 0, 0);
+  border: 5px solid rgb(0, 255, 221);
+}
+
+#result  {
+  font-size: 1.5rem;
+}
+
+.btn  {
+  margin: 10px;
+}
+
+.displayNumber {
+  color: white;
+}
+
+.ding-red {
+  color: rgb(255, 0, 0);
+}
+
+.dong-yellow {
+  color: rgb(255, 229, 0);
+}
+
+.dingdong-green {
+  color: rgb(4, 255, 0);
+}
